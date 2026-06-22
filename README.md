@@ -54,7 +54,7 @@ I believe in:
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/visrutim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/visruti-m-undefined-0bb52240a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visruti-m-undefined-0bb52240a/?skipRedirect=true)
 
 ---
 
